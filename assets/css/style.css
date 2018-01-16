@@ -6,6 +6,9 @@ body {
     background-image: url('../images/back.png');
 }
 
+h4 {
+    text-align: center;
+}
 
 /* .main-container { */
 
